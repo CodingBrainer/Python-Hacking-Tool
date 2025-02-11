@@ -1,0 +1,8 @@
+scapy
+PyQt5
+pyqtgraph
+flask
+requests
+scikit-learn
+numpy
+paramiko
